@@ -1,5 +1,5 @@
 {
-    "name": "MITLibraries/cms1b-courtyard",
+    "name": "mitlibraries/cms1b-courtyard",
     "description": "A WordPress theme that is compatible with Pantheon deploys and CircleCI builds",
     "type": "wordpress-theme",
     "license": "GPL3",
