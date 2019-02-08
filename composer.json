@@ -1,0 +1,13 @@
+{
+    "name": "matt-bernhardt/cms1b-courtyard",
+    "description": "A WordPress theme that is compatible with Pantheon deploys and CircleCI builds",
+    "type": "wordpress-theme",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Matt Bernhardt",
+            "email": "mjbernha@mit.edu"
+        }
+    ],
+    "require": {}
+}
