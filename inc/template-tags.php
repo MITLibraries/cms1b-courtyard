@@ -4,7 +4,7 @@
  *
  * Eventually, some of the functionality here could be replaced by core features.
  *
- * @package mitlib-courtyard
+ * @package cms1b-courtyard
  */
 
 if ( ! function_exists( 'courtyard_posted_on' ) ) :

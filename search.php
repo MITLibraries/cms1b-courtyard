@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#search-result
  *
- * @package mitlib-courtyard
+ * @package cms1b-courtyard
  */
 
 get_header(); ?>

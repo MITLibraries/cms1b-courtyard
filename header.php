@@ -6,7 +6,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
- * @package mitlib-courtyard
+ * @package cms1b-courtyard
  */
 
 ?><!DOCTYPE html>

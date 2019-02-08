@@ -2,7 +2,7 @@
 /**
  * This needs to describe the functions-strap php file.
  *
- * @package mitlib-courtyard
+ * @package cms1b-courtyard
  */
 
 /**
