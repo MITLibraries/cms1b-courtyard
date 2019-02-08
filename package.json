@@ -1,12 +1,12 @@
 {
-  "name": "mitlib-courtyard",
+  "name": "cms1b-courtyard",
   "version": "1.2.0",
   "description": "Build tooling for the MIT Libraries' 'courtyard' Wordpress theme.",
-  "bugs": "https://github.com/MITLibraries/mitlib-courtyard/issues",
+  "bugs": "https://github.com/MITLibraries/cms1b-courtyard/issues",
   "license": "MIT",
-  "repository" : {
+  "repository": {
     "type": "git",
-    "url": "https://github.com/MITLibraries/mitlib-courtyard"
+    "url": "https://github.com/MITLibraries/cms1b-courtyard"
   },
   "devDependencies": {
     "glob": "~7.1.2",

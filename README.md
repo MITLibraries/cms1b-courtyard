@@ -1,10 +1,10 @@
-[![Build Status](https://travis-ci.org/MITLibraries/mitlib-courtyard.svg)](https://travis-ci.org/MITLibraries/mitlib-courtyard)
-[![Code Climate](https://codeclimate.com/github/MITLibraries/mitlib-courtyard/badges/gpa.svg)](https://codeclimate.com/github/MITLibraries/mitlib-courtyard)
+[![Build Status](https://travis-ci.org/MITLibraries/cms1b-courtyard.svg)](https://travis-ci.org/MITLibraries/cms1b-courtyard)
+[![Code Climate](https://codeclimate.com/github/MITLibraries/cms1b-courtyard/badges/gpa.svg)](https://codeclimate.com/github/MITLibraries/cms1b-courtyard)
 
-Mitlib-Courtyard
+CMS1b-Courtyard
 ======
 
-Mitlib-Courtyard is a base WordPress theme for use on internal projects at the MIT Libraries. It has been created by [Matt Bernhardt](https://github.com/matt-bernhardt) from the [\_strap](https://github.com/ptbello/_strap) starter theme.
+CMS1b-Courtyard is a base WordPress theme for use on internal projects at the MIT Libraries. It has been created by [Matt Bernhardt](https://github.com/matt-bernhardt) from the [\_strap](https://github.com/ptbello/_strap) starter theme.
 
 ## A note for developers and contributors:
 

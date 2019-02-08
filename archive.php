@@ -4,7 +4,7 @@
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
- * @package mitlib-courtyard
+ * @package cms1b-courtyard
  */
 
 get_header(); ?>

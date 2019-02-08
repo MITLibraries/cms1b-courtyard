@@ -4,7 +4,7 @@
  *
  * @link https://codex.wordpress.org/Creating_an_Error_404_Page
  *
- * @package mitlib-courtyard
+ * @package cms1b-courtyard
  */
 
 get_header(); ?>
